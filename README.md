@@ -1,4 +1,5 @@
-# snake
+﻿#v1.0 
+snake
 thinkphp5做的通用系统改后台
 
 目前完成的功能有:
